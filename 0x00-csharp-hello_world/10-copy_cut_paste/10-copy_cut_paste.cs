@@ -4,7 +4,7 @@ class Program
 {
         static void Main(string[] args)
         {
-		string word = "Holberton";
+        string word = "Holberton";
 		string word_first_3 = word.Substring(0,3);
         string word_last_2 = word.Substring(7,2);
         string middle_word = word.Substring(1,7);
