@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.deps.json
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.dll
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.pdb
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.dll
+/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/10-copy_cut_paste/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.pdb
