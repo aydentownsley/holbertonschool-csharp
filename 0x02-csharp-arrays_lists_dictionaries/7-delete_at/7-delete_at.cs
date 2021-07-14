@@ -10,7 +10,8 @@ class List
             Console.WriteLine("Index is out of range");
             return myList;
         }
-        else if (index < 0)
+        
+        if (index < 0)
             return myList;
 
         myList.Remove(myList[index]);
