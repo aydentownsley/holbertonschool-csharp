@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp2.1\12-print_sorted_dictionary.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp2.1\12-print_sorted_dictionary.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp2.1\12-print_sorted_dictionary.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp2.1\12-print_sorted_dictionary.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\netcoreapp2.1\12-print_sorted_dictionary.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp2.1\12-print_sorted_dictionary.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp2.1\12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp2.1\12-print_sorted_dictionary.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp2.1\12-print_sorted_dictionary.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp2.1\12-print_sorted_dictionary.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\netcoreapp2.1\12-print_sorted_dictionary.pdb
