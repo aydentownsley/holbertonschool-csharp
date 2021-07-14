@@ -17,7 +17,10 @@ namespace _100_jagged_array
             {
                 for (int j = 0; j < jaggedArray[i].Length; j++)
                 {
-                    Console.Write(jaggedArray[i][j] + " ");
+                    if (j == jaggedArray[i].Length - 1)
+                        Console.WriteLine(jaggedArray[i][j]);
+                    else
+                        Console.Write(jaggedArray[i][j] + " ");
                 }
                 Console.WriteLine();
             }
