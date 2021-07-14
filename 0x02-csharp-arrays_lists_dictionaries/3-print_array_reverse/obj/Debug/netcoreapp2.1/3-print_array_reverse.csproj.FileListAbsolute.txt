@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\netcoreapp2.1\3-print_array_reverse.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\netcoreapp2.1\3-print_array_reverse.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\netcoreapp2.1\3-print_array_reverse.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\netcoreapp2.1\3-print_array_reverse.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\bin\Debug\netcoreapp2.1\3-print_array_reverse.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\netcoreapp2.1\3-print_array_reverse.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\netcoreapp2.1\3-print_array_reverse.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\netcoreapp2.1\3-print_array_reverse.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\netcoreapp2.1\3-print_array_reverse.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\netcoreapp2.1\3-print_array_reverse.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\3-print_array_reverse\obj\Debug\netcoreapp2.1\3-print_array_reverse.pdb
