@@ -9,6 +9,11 @@ class List
 
         if (size == 0)
             Console.WriteLine();
+        else if (size < 0)
+        {
+            Console.WriteLine("Size cannot be negative");
+            return null;
+        }
 
         for (int x = 0; x < size; x++)
         {
