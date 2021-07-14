@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\bin\Debug\netcoreapp2.1\0-print_array.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\bin\Debug\netcoreapp2.1\0-print_array.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\bin\Debug\netcoreapp2.1\0-print_array.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\bin\Debug\netcoreapp2.1\0-print_array.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\bin\Debug\netcoreapp2.1\0-print_array.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\netcoreapp2.1\0-print_array.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\netcoreapp2.1\0-print_array.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\netcoreapp2.1\0-print_array.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\netcoreapp2.1\0-print_array.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\netcoreapp2.1\0-print_array.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\0-print_array\obj\Debug\netcoreapp2.1\0-print_array.pdb
