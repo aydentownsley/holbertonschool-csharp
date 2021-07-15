@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\netcoreapp2.1\10-linkedlist_get_node.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\netcoreapp2.1\10-linkedlist_get_node.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\netcoreapp2.1\10-linkedlist_get_node.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\netcoreapp2.1\10-linkedlist_get_node.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\netcoreapp2.1\10-linkedlist_get_node.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\netcoreapp2.1\10-linkedlist_get_node.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\netcoreapp2.1\10-linkedlist_get_node.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\netcoreapp2.1\10-linkedlist_get_node.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\netcoreapp2.1\10-linkedlist_get_node.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\netcoreapp2.1\10-linkedlist_get_node.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\netcoreapp2.1\10-linkedlist_get_node.pdb
