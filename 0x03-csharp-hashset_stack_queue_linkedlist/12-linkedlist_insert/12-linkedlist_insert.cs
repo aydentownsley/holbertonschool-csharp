@@ -7,21 +7,26 @@ class LList
     {
         LinkedListNode<int> newNode = new LinkedListNode<int>(n);
         LinkedListNode<int> current = myLList.First;
-        for (int x = 0; x < myLList.Count; x++)
+        while (current.Next != null)
         {
-            if (n < current.Next.Value)
-            {
-                myLList.AddAfter(current, newNode);
-                return newNode;
-            }
-            else if (n < current.Value)
+            if (n < current.Value)
             {
                 myLList.AddBefore(current, newNode);
+                return newNode;
+            }
+            else if (n < current.Next.Value)
+            {
+                myLList.AddAfter(current, newNode);
                 return newNode;
             }
             else
                 current = current.Next;
         }
-        return newNode;
+        if (current.Next == null)
+        {
+            myLList.AddAfter(current, newNode);
+            return newNode;
+        }
+        return null;
     }
 }
