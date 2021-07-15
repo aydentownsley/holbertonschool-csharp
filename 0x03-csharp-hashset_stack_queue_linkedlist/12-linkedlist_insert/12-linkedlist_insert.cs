@@ -14,6 +14,11 @@ class LList
                 myLList.AddAfter(current, newNode);
                 return newNode;
             }
+            else if (n < current.Value)
+            {
+                myLList.AddBefore(current, newNode);
+                return newNode;
+            }
             else
                 current = current.Next;
         }
