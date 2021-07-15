@@ -22,11 +22,15 @@ class LList
             else
                 current = current.Next;
         }
-        if (current.Next == null)
+        if (current.Value < n)
         {
             myLList.AddAfter(current, newNode);
             return newNode;
         }
-        return null;
+        else
+        {
+            myLList.AddBefore(current, newNode);
+            return newNode;
+        }
     }
 }
