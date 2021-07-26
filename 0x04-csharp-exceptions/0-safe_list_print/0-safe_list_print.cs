@@ -8,10 +8,9 @@ class List
         int count = 0;
         try
         {
-            foreach (int element in myList)
+            for (count = 0; count < n; count++)
             {
-                Console.WriteLine(element);
-                count++;
+                Console.WriteLine(myList[count]);
             }
             return count;
         }
