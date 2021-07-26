@@ -22,7 +22,7 @@ class List
             catch (System.ArgumentOutOfRangeException)
             {
                 Console.WriteLine("Out of range");
-                return list3;
+                continue;
             }  
         }
         return list3;
