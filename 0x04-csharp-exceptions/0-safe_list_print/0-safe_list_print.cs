@@ -14,7 +14,7 @@ class List
             }
             return count;
         }
-        catch (System.IndexOutOfRangeException)
+        catch (System.ArgumentOutOfRangeException)
         {
             return count;
         }
