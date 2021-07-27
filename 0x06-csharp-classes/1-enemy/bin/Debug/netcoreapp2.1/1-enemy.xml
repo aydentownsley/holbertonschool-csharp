@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            Defines the Zombie Class.
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>
+            Zombies health.
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Enemies.Zombie"/> class.
+            </summary>
+        </member>
+    </members>
+</doc>
