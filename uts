@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+# Creates task directory from argument 1 with class library names from argument 2. Eg: ./script 0-add MyMath
+if [ $# -eq 2 ];
+then
+        tests="$2".Tests
+        new='  <PropertyGroup>\n    <DocumentationFile>bin\\$(Configuration)\\$(TargetFramework)\\$(AssemblyName).xml</DocumentationFile>'
+        old='  <PropertyGroup>'
+        sudo mkdir "$1"
+        cd "$1"
+        sudo dotnet new sln
+        sudo dotnet new classlib -o "$2"
+        cd "$2"
+        sudo mv Class1.cs "$2".cs
+        sudo sed -i "s@^$old@$new@" "$2".csproj
+        cd ..
+        sudo dotnet sln add "$2"/"$2".csproj
+        sudo dotnet new nunit -o "$tests"
+        cd "$tests"
+        sudo mv UnitTest1.cs "$tests".cs
+        sudo dotnet add reference ../"$2"/"$2".csproj
+        cd ..
+        sudo dotnet sln add "$tests"/"$tests".csproj
+        group=$(groups "$USER" | tr -d " ")
+        sudo chown -R "$group" .
+        sudo chown -R "$group" /tmp/NuGetScratch/lock
+        sudo chmod -R g+w .
+        sudo chmod -R g+w /tmp/NuGetScratch/lock
+else
+        echo "Usage: ./mktest <task directory> <classlibrary>"
+fi
