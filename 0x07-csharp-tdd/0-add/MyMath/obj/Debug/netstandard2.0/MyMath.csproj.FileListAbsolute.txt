@@ -1,0 +1,10 @@
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.deps.json
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.dll
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.pdb
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/bin/Debug/netstandard2.0/MyMath.xml
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.dll
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/Debug/netstandard2.0/MyMath.pdb

@@ -180,7 +180,7 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/vagrant/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -188,11 +188,11 @@
       "projectUniqueName": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/MyMath.csproj",
       "projectName": "MyMath",
       "projectPath": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/MyMath.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/vagrant/.nuget/packages/",
       "outputPath": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/0-add/MyMath/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/vagrant/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

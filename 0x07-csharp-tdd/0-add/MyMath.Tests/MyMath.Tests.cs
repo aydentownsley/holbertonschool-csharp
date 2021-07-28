@@ -1,18 +1,15 @@
 using NUnit.Framework;
 
-namespace Tests
+namespace MyMath.Tests
 {
-    public class Tests
+    [TestFixture]
+    public class AdditionTests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
-        public void Test1()
+        public void Add()
         {
-            Assert.Pass();
+            Assert.AreEqual(MyMath.Operations.Add(1, 2), 3);
+            Assert.AreEqual(MyMath.Operations.Add(0, 0), 0);
         }
     }
 }
