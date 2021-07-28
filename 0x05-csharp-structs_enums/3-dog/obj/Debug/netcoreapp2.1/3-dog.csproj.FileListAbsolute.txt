@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp2.1\3-dog.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp2.1\3-dog.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp2.1\3-dog.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp2.1\3-dog.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\bin\Debug\netcoreapp2.1\3-dog.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp2.1\3-dog.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp2.1\3-dog.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp2.1\3-dog.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp2.1\3-dog.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp2.1\3-dog.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x05-csharp-structs_enums\3-dog\obj\Debug\netcoreapp2.1\3-dog.pdb

@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\netcoreapp2.1\4-queue_enqueue_dequeue.pdb

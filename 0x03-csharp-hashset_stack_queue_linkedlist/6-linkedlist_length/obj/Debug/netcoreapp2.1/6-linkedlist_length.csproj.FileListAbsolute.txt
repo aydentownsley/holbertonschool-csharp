@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\netcoreapp2.1\6-linkedlist_length.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\netcoreapp2.1\6-linkedlist_length.pdb

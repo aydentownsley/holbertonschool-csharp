@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            Defines the Zombie Class.
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>
+            Zombies health.
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Enemies.Zombie"/> class.
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Enemies.Zombie"/> class with value.
+            <param name="value"> value is health of zombie </param>
+            </summary>
+        </member>
+    </members>
+</doc>

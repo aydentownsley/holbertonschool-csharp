@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\netcoreapp2.1\12-fizzbuzz.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\netcoreapp2.1\12-fizzbuzz.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\netcoreapp2.1\12-fizzbuzz.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\netcoreapp2.1\12-fizzbuzz.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\netcoreapp2.1\12-fizzbuzz.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\netcoreapp2.1\12-fizzbuzz.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\netcoreapp2.1\12-fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\netcoreapp2.1\12-fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\netcoreapp2.1\12-fizzbuzz.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\netcoreapp2.1\12-fizzbuzz.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\netcoreapp2.1\12-fizzbuzz.pdb

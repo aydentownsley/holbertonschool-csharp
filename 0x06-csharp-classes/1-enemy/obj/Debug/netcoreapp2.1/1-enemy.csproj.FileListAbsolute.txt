@@ -1,0 +1,12 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\obj\Debug\netcoreapp2.1\1-enemy.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\obj\Debug\netcoreapp2.1\1-enemy.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\obj\Debug\netcoreapp2.1\1-enemy.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\obj\Debug\netcoreapp2.1\1-enemy.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\bin\Debug\netcoreapp2.1\1-enemy.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\bin\Debug\netcoreapp2.1\1-enemy.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\bin\Debug\netcoreapp2.1\1-enemy.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\bin\Debug\netcoreapp2.1\1-enemy.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\bin\Debug\netcoreapp2.1\1-enemy.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\bin\Debug\netcoreapp2.1\1-enemy.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\obj\Debug\netcoreapp2.1\1-enemy.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x06-csharp-classes\1-enemy\obj\Debug\netcoreapp2.1\1-enemy.pdb
