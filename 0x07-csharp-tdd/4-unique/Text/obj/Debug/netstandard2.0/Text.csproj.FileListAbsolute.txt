@@ -1,0 +1,10 @@
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/bin/Debug/netstandard2.0/Text.deps.json
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/bin/Debug/netstandard2.0/Text.dll
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/bin/Debug/netstandard2.0/Text.pdb
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/bin/Debug/netstandard2.0/Text.xml
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.dll
+/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text/obj/Debug/netstandard2.0/Text.pdb
