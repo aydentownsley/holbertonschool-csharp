@@ -1,18 +1,27 @@
 using NUnit.Framework;
 
-namespace Tests
+namespace Text.Tests
 {
-    public class Tests
+    public class CamelTests
     {
-        [SetUp]
-        public void Setup()
+        [Test]
+        public void Standard()
         {
+            Assert.AreEqual(Text.Str.CamelCase("a Bird Is Not A Dog"), 6);
+            Assert.AreEqual(Text.Str.CamelCase("aCanaryCanSing"), 4);
         }
 
         [Test]
-        public void Test1()
+        public void NonStandard()
         {
-            Assert.Pass();
+            Assert.AreEqual(Text.Str.CamelCase("a-bird-is-not-a-dog"), 1);
+            Assert.AreEqual(Text.Str.CamelCase(""), 0);
+        }
+
+        [Test]
+        public void NullString()
+        {
+            Assert.AreEqual(Text.Str.CamelCase(null), 0);
         }
     }
 }
