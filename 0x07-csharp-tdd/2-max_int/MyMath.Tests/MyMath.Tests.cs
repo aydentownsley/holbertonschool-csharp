@@ -48,5 +48,12 @@ namespace MyMath.Tests
             List<int> list = new List<int>() {4, 4, 4, 4, 4};
             Assert.AreEqual(MyMath.Operations.Max(list), 4);
         }
+
+        [Test]
+        public void FindMaxNegative()
+        {
+            List<int> list = new List<int>() { -1, -2, -3, -4, -5 };
+            Assert.AreEqual(MyMath.Operations.Max(list), -1);
+        }
     }
 }
