@@ -20,5 +20,11 @@ namespace TextTests
             Assert.AreEqual(Text.Str.UniqueChar("aaaaaaa"), -1);
             Assert.AreEqual(Text.Str.UniqueChar("aabbccdd"), -1);
         }
+
+        [Test]
+        public void EmptyString()
+        {
+            Assert.AreEqual(Text.Str.UniqueChar(""), -1);
+        }
     }
 }

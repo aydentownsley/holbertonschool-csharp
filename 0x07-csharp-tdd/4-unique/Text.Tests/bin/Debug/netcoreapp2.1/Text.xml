@@ -4,5 +4,15 @@
         <name>Text</name>
     </assembly>
     <members>
+        <member name="T:Text.Str">
+            <summary>
+            Methods to break down string
+            </summary>
+        </member>
+        <member name="M:Text.Str.UniqueChar(System.String)">
+            <summary>
+            searches for unique char in a string
+            </summary>
+        </member>
     </members>
 </doc>
