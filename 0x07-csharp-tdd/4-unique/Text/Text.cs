@@ -2,39 +2,40 @@
 
 namespace Text
 {
+    /// <summary>
+    /// Methods to break down string
+    /// </summary>
     public class Str
     {
+        /// <summary>
+        /// searches for unique char in a string
+        /// </summary>
         public static int UniqueChar(string s)
         {
-            char c;
-            int pos = 0;
-            int x = 1;
-            if (s == null)
-                return -1;
+            int c;
 
-            c = s[0];
-            pos = 0;
-            while (x < s.Length)
+            if (s == null)
+                return (-1);
+            else
+                s = s.ToLower();
+
+            char [] a = s.ToCharArray();
+
+            for (int x = 0; x < a.Length; x++)
             {
-                if (s[x + 1] != null)
+                c = 0;
+                for (int y = 0; y < a.Length; y++)
                 {
-                    if (c == s[x + 1])
+                    if (x != y)
                     {
-                        if (s[x + 2] != null)
-                        {
-                            c = s[x + 2];
-                            x = x + 2;
-                            pos = x;
-                        }
-                        else
-                            return (-1);
+                        if (a[x] == a[y])
+                            c++;
                     }
-                    else
-                        return (-1);
                 }
-                return pos;
+                if (c == 0)
+                    return (x);
             }
-            return (x);
+            return (-1);
         }
     }
 }

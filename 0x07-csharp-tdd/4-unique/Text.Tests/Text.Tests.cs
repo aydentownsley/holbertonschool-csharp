@@ -16,7 +16,7 @@ namespace TextTests
         [Test]
         public void NoUniqueChar()
         {
-            Assert.AreEqual(Text.Str.UniqueChar("abc"), -1);
+            Assert.AreEqual(Text.Str.UniqueChar("aaa"), -1);
             Assert.AreEqual(Text.Str.UniqueChar("aaaaaaa"), -1);
             Assert.AreEqual(Text.Str.UniqueChar("aabbccdd"), -1);
         }
