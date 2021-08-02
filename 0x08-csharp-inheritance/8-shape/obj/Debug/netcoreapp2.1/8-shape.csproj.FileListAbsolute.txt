@@ -9,3 +9,4 @@ C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\8-s
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\netcoreapp2.1\8-shape.pdb
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\netcoreapp2.1\8-shape.dll
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\netcoreapp2.1\8-shape.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\netcoreapp2.1\8-shape.xml

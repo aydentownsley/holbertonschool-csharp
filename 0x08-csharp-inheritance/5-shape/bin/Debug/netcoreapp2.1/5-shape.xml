@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-shape</name>
+    </assembly>
+    <members>
+        <member name="M:Shape.Area">
+            <summary>Un-Implemented Area Method</summary>
+        </member>
+    </members>
+</doc>

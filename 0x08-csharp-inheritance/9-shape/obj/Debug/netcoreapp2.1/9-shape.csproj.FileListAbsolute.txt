@@ -9,3 +9,4 @@ C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\9-s
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp2.1\9-shape.pdb
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp2.1\9-shape.dll
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\obj\Debug\netcoreapp2.1\9-shape.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\9-shape\bin\Debug\netcoreapp2.1\9-shape.xml

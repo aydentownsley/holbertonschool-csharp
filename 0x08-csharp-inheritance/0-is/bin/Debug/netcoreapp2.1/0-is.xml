@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>0-is</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>
+            Class containting method for type checking
+            </summary>
+        </member>
+        <member name="M:Obj.IsOfTypeInt(System.Object)">
+            <summary>
+            check input is of type int
+            <param namme="obj">input object</param>
+            </summary>
+        </member>
+    </members>
+</doc>

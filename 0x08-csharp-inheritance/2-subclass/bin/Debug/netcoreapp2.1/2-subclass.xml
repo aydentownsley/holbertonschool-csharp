@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>2-subclass</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>
+            Contains method for testing inheritance.
+            </summary>
+        </member>
+        <member name="M:Obj.IsOnlyASubclass(System.Type,System.Type)">
+            <summary>
+            Checks if derivedType is instance of inherited type.
+            </summary>
+            <param name="derivedType">Derived type.</param>
+            <param name="baseType">Inherited type.</param>
+        </member>
+    </members>
+</doc>

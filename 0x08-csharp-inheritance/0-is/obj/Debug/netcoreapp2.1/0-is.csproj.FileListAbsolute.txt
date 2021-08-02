@@ -9,3 +9,4 @@ C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\0-i
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp2.1\0-is.pdb
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp2.1\0-is.dll
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp2.1\0-is.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp2.1\0-is.xml

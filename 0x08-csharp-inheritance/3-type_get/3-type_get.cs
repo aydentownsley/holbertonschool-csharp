@@ -5,7 +5,7 @@ class Obj
     /// <summary>
     /// Prints Properties and Methods of obj type.
     /// </summary>
-    /// <param name="obj">Input Object.</param>
+    /// <param name="myObj">Input Object.</param>
     public static void Print(object myObj)
     {
         Console.WriteLine("{0} Properties:", myObj.GetType().Name);

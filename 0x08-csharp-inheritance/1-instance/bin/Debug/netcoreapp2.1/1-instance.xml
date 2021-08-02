@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-instance</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>
+            Containes method testing for inheritance
+            from a specific type.
+            </summary>
+        </member>
+        <member name="M:Obj.IsInstanceOfArray(System.Object)">
+            <summary>Checks if obj is inhereited from Array.</summary>
+            <param name="obj">Object to check.</param>
+        </member>
+    </members>
+</doc>

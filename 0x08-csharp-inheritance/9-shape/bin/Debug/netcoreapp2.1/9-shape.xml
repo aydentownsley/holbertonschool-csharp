@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>9-shape</name>
+    </assembly>
+    <members>
+        <member name="M:Shape.Area">
+            <summary>Non-Implemented Method</summary>
+        </member>
+        <member name="F:Rectangle.width">
+            widht and height members
+        </member>
+        <member name="P:Rectangle.Width">
+            <summary>Width Property.</summary>
+        </member>
+        <member name="P:Rectangle.Height">
+            <summary>Height Property.</summary>
+        </member>
+        <member name="M:Rectangle.Area">
+            <summary>Area Method.</summary>
+        </member>
+        <member name="M:Rectangle.ToString">
+            <summary>Overriden ToString</summary>
+        </member>
+        <member name="F:Square.size">
+            private member.
+        </member>
+        <member name="P:Square.Size">
+            <summary>Size Property.</summary>
+        </member>
+        <member name="M:Square.ToString">
+            <summary>Overriden ToString</summary>
+        </member>
+    </members>
+</doc>

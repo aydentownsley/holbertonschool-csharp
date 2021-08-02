@@ -9,7 +9,7 @@ public class Obj
     /// Checks if derivedType is instance of inherited type.
     /// </summary>
     /// <param name="derivedType">Derived type.</param>
-    /// <param name="inheritedType">Inherited type.</param>
+    /// <param name="baseType">Inherited type.</param>
     public static bool IsOnlyASubclass(Type derivedType, Type baseType)
     {
         if (derivedType.IsSubclassOf(baseType))
