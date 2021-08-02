@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp2.1\4-inherit.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp2.1\4-inherit.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp2.1\4-inherit.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp2.1\4-inherit.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\bin\Debug\netcoreapp2.1\4-inherit.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp2.1\4-inherit.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp2.1\4-inherit.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp2.1\4-inherit.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp2.1\4-inherit.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp2.1\4-inherit.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x08-csharp-inheritance\4-inherit\obj\Debug\netcoreapp2.1\4-inherit.pdb
