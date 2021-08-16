@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\netcoreapp2.1\3-magnitude.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\netcoreapp2.1\3-magnitude.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\netcoreapp2.1\3-magnitude.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\netcoreapp2.1\3-magnitude.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\bin\Debug\netcoreapp2.1\3-magnitude.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\3-magnitude\obj\Debug\netcoreapp2.1\3-magnitude.pdb
