@@ -1,0 +1,11 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\netcoreapp2.1\9-vector_scalar_mul.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\netcoreapp2.1\9-vector_scalar_mul.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\netcoreapp2.1\9-vector_scalar_mul.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\netcoreapp2.1\9-vector_scalar_mul.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\bin\Debug\netcoreapp2.1\9-vector_scalar_mul.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.pdb
