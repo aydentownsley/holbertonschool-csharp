@@ -1,8 +1,9 @@
 ﻿using System;
 
+/// <summary> part of vetormath operations </summary>
 class VectorMath
 {
-    /// <summary> find lenght of 2d or 3d vector</summary>
+    /// <summary>find lenght of 2d or 3d vector</summary>
     public static double Magnitude(double[] vector)
     {
         double result = 0;
