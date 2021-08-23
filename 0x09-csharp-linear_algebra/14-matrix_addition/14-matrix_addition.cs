@@ -8,6 +8,8 @@ class MatrixMath
             return (new double[,] {{-1}});
         if (matrix1.GetLength(0) != matrix2.GetLength(0) || matrix1.GetLength(1) != matrix2.GetLength(1))
             return (new double[,] {{-1}});
+        if (matrix1.GetLength(0) != matrix1.GetLength(1) || matrix2.GetLength(0) != matrix2.GetLength(1))
+            return (new double[,] {{-1}});
 
         double[,] result = new double[matrix1.GetLength(0), matrix1.GetLength(1)];
 
