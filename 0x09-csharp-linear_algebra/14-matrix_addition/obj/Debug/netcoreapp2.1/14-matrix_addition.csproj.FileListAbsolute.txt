@@ -1,0 +1,12 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\bin\Debug\netcoreapp2.1\14-matrix_addition.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\bin\Debug\netcoreapp2.1\14-matrix_addition.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\bin\Debug\netcoreapp2.1\14-matrix_addition.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\bin\Debug\netcoreapp2.1\14-matrix_addition.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\bin\Debug\netcoreapp2.1\14-matrix_addition.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\bin\Debug\netcoreapp2.1\14-matrix_addition.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\14-matrix_addition\obj\Debug\netcoreapp2.1\14-matrix_addition.pdb
