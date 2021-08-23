@@ -1,5 +1,6 @@
 ﻿using System;
 
+/// <summary> part of vectormath</summary>
 class VectorMath
 {
     /// <summary> adding 2D and 3D vectors</summary>
@@ -26,11 +27,6 @@ class VectorMath
             return vector1;
         }
 
-        for (int i = 0; i < 2; i++)
-        {
-               result[i] = vector1[i] + vector2[i];
-        }
-        result[2] = -1;
-        return result;
+        return (new double[] {-1});
     }
 }

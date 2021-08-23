@@ -9,3 +9,4 @@ C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp2.1\6-vector_addition.pdb
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.dll
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp2.1\6-vector_addition.xml
