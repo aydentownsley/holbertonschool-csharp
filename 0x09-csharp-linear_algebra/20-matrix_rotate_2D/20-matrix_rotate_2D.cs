@@ -8,11 +8,13 @@ class MatrixMath
         if (matrix == null || matrix.GetLength(0) != 2 || matrix.GetLength(1) != 2)
             return (new double[,] {{-1}});
 
-        matrix[0, 0] = matrix[0,0] * Math.Cos(180/Math.PI * angle) - matrix[0,1] * Math.Sin(180/Math.PI * angle);
-        matrix[0, 1] = matrix[0,0] * Math.Sin(180/Math.PI * angle) + matrix[0,1] * Math.Cos(180/Math.PI * angle);
-        matrix[1, 0] = matrix[1,0] * Math.Cos(180/Math.PI * angle) - matrix[1,1] * Math.Sin(180/Math.PI * angle);
-        matrix[1, 1] = matrix[1,0] * Math.Sin(180/Math.PI * angle) + matrix[1,1] * Math.Cos(180/Math.PI * angle);
+        double result = new double[matrix.GetLength(0), matrix.GetLength(1)];
 
-        return matrix;
+        result[0, 0] = matrix[0,0] * Math.Cos(180/Math.PI * angle) - matrix[0,1] * Math.Sin(180/Math.PI * angle);
+        result[0, 1] = matrix[0,0] * Math.Sin(180/Math.PI * angle) + matrix[0,1] * Math.Cos(180/Math.PI * angle);
+        result[1, 0] = matrix[1,0] * Math.Cos(180/Math.PI * angle) - matrix[1,1] * Math.Sin(180/Math.PI * angle);
+        result[1, 1] = matrix[1,0] * Math.Sin(180/Math.PI * angle) + matrix[1,1] * Math.Cos(180/Math.PI * angle);
+
+        return result;
     }
 }
