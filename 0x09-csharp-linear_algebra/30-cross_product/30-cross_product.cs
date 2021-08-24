@@ -1,6 +1,6 @@
 ﻿using System;
 
-class MatrixMath
+class VectorMath
 {
     public static double[] CrossProduct(double[] vector1, double[] vector2)
     {
@@ -11,7 +11,7 @@ class MatrixMath
 
         for (int i = 0; i < 3; i++)
         {
-            result[i] = vector1[i] * vector2[(i + 1) % 3] - vector1[(i + 1) % 3] * vector2[i];
+            result[(i + 2) % 3] = vector1[i] * vector2[(i + 1) % 3] - vector1[(i + 1) % 3] * vector2[i];
         }
 
         return result;

@@ -2,3 +2,11 @@ C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.csproj.CoreCompileInputs.cache
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.AssemblyInfoInputs.cache
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp2.1\30-cross_product.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp2.1\30-cross_product.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp2.1\30-cross_product.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp2.1\30-cross_product.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp2.1\30-cross_product.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\bin\Debug\netcoreapp2.1\30-cross_product.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.pdb
