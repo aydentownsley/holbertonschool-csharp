@@ -1,0 +1,4 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\netcoreapp2.1\20-matrix_rotate_2D.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\netcoreapp2.1\20-matrix_rotate_2D.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\netcoreapp2.1\20-matrix_rotate_2D.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\20-matrix_rotate_2D\obj\Debug\netcoreapp2.1\20-matrix_rotate_2D.AssemblyInfo.cs
