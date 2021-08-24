@@ -2,3 +2,11 @@ C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.csproj.CoreCompileInputs.cache
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.AssemblyInfoInputs.cache
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\bin\Debug\netcoreapp2.1\24-matrix_shear_2D.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.pdb

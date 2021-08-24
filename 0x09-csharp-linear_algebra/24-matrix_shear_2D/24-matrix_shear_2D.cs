@@ -19,7 +19,7 @@ class MatrixMath
         {
             for (int i = 0; i < matrix.GetLength(1); i++)
             {
-                matrix[0, i] = matrix[0, i] + factor * matrix[1, i];
+                matrix[i, 1] = matrix[i, 1] + factor * matrix[i, 0];
             }
             return matrix;
         }
