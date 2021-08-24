@@ -1,0 +1,4 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\24-matrix_shear_2D\obj\Debug\netcoreapp2.1\24-matrix_shear_2D.AssemblyInfo.cs
