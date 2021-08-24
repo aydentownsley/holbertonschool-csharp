@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>20-matrix_rotate_2D</name>
+    </assembly>
+    <members>
+        <member name="M:MatrixMath.Rotate2D(System.Double[0:,0:],System.Double)">
+            <summary> Rotates matrix by "angle" degress </summary>
+        </member>
+    </members>
+</doc>

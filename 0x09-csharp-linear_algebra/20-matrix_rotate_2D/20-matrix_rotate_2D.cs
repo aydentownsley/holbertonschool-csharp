@@ -9,10 +9,10 @@ class MatrixMath
             return (new double[,] {{-1}});
 
         double[,] result = new double[2, 2];
-        result[0, 0] = matrix[0,0] * Math.Cos(180/Math.PI * angle) - matrix[0,1] * Math.Sin(180/Math.PI * angle).Round(0.00);
-        result[0, 1] = matrix[0,0] * Math.Sin(180/Math.PI * angle) + matrix[0,1] * Math.Cos(180/Math.PI * angle).Round(0.00);
-        result[1, 0] = matrix[1,0] * Math.Cos(180/Math.PI * angle) - matrix[1,1] * Math.Sin(180/Math.PI * angle).Round(0.00);
-        result[1, 1] = matrix[1,0] * Math.Sin(180/Math.PI * angle) + matrix[1,1] * Math.Cos(180/Math.PI * angle).Round(0.00);
+        result[0, 0] = Math.Round(matrix[0,0] * Math.Cos(angle) - matrix[0,1] * Math.Sin(angle), 0.00);
+        result[0, 1] = Math.Round(matrix[0,0] * Math.Sin(angle) + matrix[0,1] * Math.Cos(angle), 0.00);
+        result[1, 0] = Math.Round(matrix[1,0] * Math.Cos(angle) - matrix[1,1] * Math.Sin(angle), 0.00);
+        result[1, 1] = Math.Round(matrix[1,0] * Math.Sin(angle) + matrix[1,1] * Math.Cos(angle), 0.00);
 
         return result;
     }
