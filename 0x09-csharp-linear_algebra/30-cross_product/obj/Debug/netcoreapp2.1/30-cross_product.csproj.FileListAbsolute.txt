@@ -1,0 +1,4 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x09-csharp-linear_algebra\30-cross_product\obj\Debug\netcoreapp2.1\30-cross_product.AssemblyInfo.cs
