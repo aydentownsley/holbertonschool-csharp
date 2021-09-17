@@ -43,7 +43,7 @@ class ImageProcessor
         }
     }
 
-    public static void BlackWhite(string[] filenames)
+    public static void BlackWhite(string[] filenames, double threshold)
     {
                 foreach (string filename in filenames)
         {
@@ -52,7 +52,7 @@ class ImageProcessor
             {
                 for (int y = 0; y < bitmap.Height; y++)
                 {
-                    if (bitmap.GetPixel(x, y).GetBrightness() > 0.5f)
+                    if (bitmap.GetPixel(x, y).GetBrightness() >= threshold)
                         bitmap.SetPixel(x, y, Color.White);
                     else
                         bitmap.SetPixel(x, y, Color.Black);
