@@ -1,6 +1,5 @@
 ﻿using System;
 
-/// <summary> part of vetormath operations </summary>
 class VectorMath
 {
     /// <summary>find lenght of 2d or 3d vector</summary>

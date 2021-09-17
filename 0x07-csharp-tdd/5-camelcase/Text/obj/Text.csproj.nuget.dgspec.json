@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text/Text.csproj": {}
+    "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text\\Text.csproj": {}
   },
   "projects": {
-    "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text/Text.csproj": {
+    "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text\\Text.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text/Text.csproj",
+        "projectUniqueName": "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text\\Text.csproj",
         "projectName": "Text",
-        "projectPath": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text/Text.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text/obj/",
+        "projectPath": "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text\\Text.csproj",
+        "packagesPath": "C:\\Users\\ayden\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ayden\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

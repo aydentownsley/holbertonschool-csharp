@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>
+            A class for manipulatig strings
+            </summary>
+        </member>
+        <member name="M:Text.Str.CamelCase(System.String)">
+            <summary>
+            A method for splitting a string into words
+            </summary>
+        </member>
+    </members>
+</doc>

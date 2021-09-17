@@ -1,0 +1,10 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\bin\Debug\netstandard2.0\Text.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x07-csharp-tdd\5-camelcase\Text\obj\Debug\netstandard2.0\Text.pdb

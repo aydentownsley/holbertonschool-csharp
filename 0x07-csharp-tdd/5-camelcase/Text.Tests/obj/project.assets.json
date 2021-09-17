@@ -1645,6 +1645,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "Text/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Text.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Text.dll": {}
+        }
       }
     }
   },
@@ -5799,6 +5809,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "Text/1.0.0": {
+      "type": "project",
+      "path": "../Text/Text.csproj",
+      "msbuildProject": "../Text/Text.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5806,23 +5821,28 @@
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.10.0",
+      "Text >= 1.0.0",
       "nunit >= 3.10.1"
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\ayden\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text.Tests/Text.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text.Tests\\Text.Tests.csproj",
       "projectName": "Text.Tests",
-      "projectPath": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text.Tests/Text.Tests.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/vagrant/holbertonschool-csharp/0x07-csharp-tdd/5-camelcase/Text.Tests/obj/",
+      "projectPath": "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text.Tests\\Text.Tests.csproj",
+      "packagesPath": "C:\\Users\\ayden\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ayden\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -5832,7 +5852,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text\\Text.csproj": {
+              "projectPath": "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x07-csharp-tdd\\5-camelcase\\Text\\Text.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
