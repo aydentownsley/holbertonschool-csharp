@@ -9,3 +9,4 @@ C:\Users\ayden\Documents\Code\holbertonschool-csharp\image_processor\ImageProces
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\image_processor\ImageProcessor\bin\Debug\netcoreapp2.1\ImageProcessor.pdb
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\image_processor\ImageProcessor\obj\Debug\netcoreapp2.1\ImageProcessor.dll
 C:\Users\ayden\Documents\Code\holbertonschool-csharp\image_processor\ImageProcessor\obj\Debug\netcoreapp2.1\ImageProcessor.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\image_processor\ImageProcessor\bin\Debug\netcoreapp2.1\ImageProcessor.xml
