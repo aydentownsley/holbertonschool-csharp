@@ -43,4 +43,24 @@ class ImageProcessor
         }
     }
 
+    public static void BlackWhite(string[] filenames)
+    {
+                foreach (string filename in filenames)
+        {
+            Bitmap bitmap = new Bitmap(filename);
+            for (int x = 0; x < bitmap.Width; x++)
+            {
+                for (int y = 0; y < bitmap.Height; y++)
+                {
+                    if (bitmap.GetPixel(x, y).GetBrightness() > 0.5f)
+                        bitmap.SetPixel(x, y, Color.White);
+                    else
+                        bitmap.SetPixel(x, y, Color.Black);
+                }
+            }
+            string new_filename = Path.GetFileNameWithoutExtension(filename) + "_bw" + Path.GetExtension(filename);
+            bitmap.Save(new_filename);
+        }
+    }
+
 }
