@@ -34,7 +34,7 @@ class Queue<T>
         {
             tail = head;
             while (tail.next != null)
-                tail = head.next;
+                tail = tail.next;
             tail.next = node;
         }
         this.count++;
