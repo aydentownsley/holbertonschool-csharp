@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-concatenate</name>
+    </assembly>
+    <members>
+        <member name="M:Queue`1.CheckType">
+            <summary>
+            Returns the Queue's Type
+            </summary>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary>
+            defines feature of queue
+            </summary>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary>
+            adds value to queue at tail.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Dequeue">
+            <summary>
+            Removes head and returns value of head
+            </summary>
+        </member>
+        <member name="M:Queue`1.Peek">
+            <summary>
+            Return value of head without removing head
+            </summary>
+        </member>
+        <member name="M:Queue`1.Print">
+            <summary>
+            prints contents of queue
+            </summary>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>
+            return length of queue
+            </summary>
+        </member>
+    </members>
+</doc>
