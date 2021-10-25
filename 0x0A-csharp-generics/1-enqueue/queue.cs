@@ -29,10 +29,13 @@ class Queue<T>
     {
         Node node = new Node(value);
         if (count == 0)
+        {
             head = node;
+            tail = head;
+        }
         else
         {
-            tail = head;
+
             while (tail.next != null)
                 tail = tail.next;
             tail.next = node;
