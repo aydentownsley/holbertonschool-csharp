@@ -1,0 +1,12 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp2.1\1-enqueue.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp2.1\1-enqueue.pdb
