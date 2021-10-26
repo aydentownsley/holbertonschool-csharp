@@ -2,7 +2,7 @@
 
 abstract class Base
 {
-    public string name;
+    public string name { get; set; }
     public override string ToString()
     {
         return name + " is a " + GetType();
@@ -37,7 +37,7 @@ interface ICollectable
 
 class TestObject : Base, IInteractive, IBreakable, ICollectable
 {
-  public string new name;
+  public string name { get; set; }
   public int durability { get; set; }
   public bool isCollected { get; set; }
   void IInteractive.Interact() {}
