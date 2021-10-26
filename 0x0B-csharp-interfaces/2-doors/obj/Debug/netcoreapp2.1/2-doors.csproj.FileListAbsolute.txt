@@ -1,0 +1,12 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.pdb
