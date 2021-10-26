@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-keys</name>
+    </assembly>
+    <members>
+        <member name="T:IInteractive">
+            <summary>
+            Interface for Intraction
+            </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary>
+            Interface for breakable
+            </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary>
+            Interface for Collectable
+            </summary>
+        </member>
+    </members>
+</doc>
