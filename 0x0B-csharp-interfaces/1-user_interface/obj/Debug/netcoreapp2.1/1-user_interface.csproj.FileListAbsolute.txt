@@ -1,0 +1,12 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.pdb
