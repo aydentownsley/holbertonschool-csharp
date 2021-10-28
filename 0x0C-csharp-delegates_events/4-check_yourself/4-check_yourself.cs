@@ -53,7 +53,7 @@ public class Player
     /// <summary> decreases health of player </summary>
     public void TakeDamage(float damage)
     {
-        if (damage <= 0)
+        if (damage < 0)
             Console.WriteLine(this.name + " takes 0 damage!");
         else
         {
@@ -65,7 +65,7 @@ public class Player
     /// <summary> increases health of player </summary>
     public void HealDamage(float heal)
     {
-        if (heal <= 0)
+        if (heal < 0)
             Console.WriteLine(this.name + " heals 0 HP!");
         else
         {
