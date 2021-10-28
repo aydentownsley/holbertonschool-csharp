@@ -1,18 +1,5 @@
 ﻿using System;
 
-/// <summary> Handles health </summary>
-public class CurrentHPArgs : EventArgs
-{
-    /// <summary> currentHp check </summary>
-    public readonly float currentHp;
-
-    /// <summary> sets newHP to current </summary>
-    public CurrentHPArgs(float newHP)
-    {
-        newHP = this.currentHp;
-    }
-}
-
 /// <summary> enum for modifiers </summary>
 public enum Modifier
 {
@@ -45,6 +32,8 @@ public class Player
     {
         this.status = this.name + " is ready to go!";
         this.name = name;
+        this.HPCheck += CheckStatus;
+
         if (maxHP <= 0f)
         {
             this.maxHP = this.hp = 100f;
@@ -53,7 +42,6 @@ public class Player
         else
             this.maxHP = this.hp = maxHP;
 
-        this.HPCheck += CheckStatus;
     }
 
     /// <summary> Prints health of Player </summary>
@@ -124,5 +112,18 @@ public class Player
             Console.WriteLine(this.name + " needs help!");
         else
             Console.WriteLine(this.name + " is knocked out!");
+    }
+}
+
+/// <summary> Handles health </summary>
+public class CurrentHPArgs : EventArgs
+{
+    /// <summary> currentHp check </summary>
+    public readonly float currentHp;
+
+    /// <summary> sets newHP to current </summary>
+    public CurrentHPArgs(float newHP)
+    {
+        this.currentHp = newHP;
     }
 }
