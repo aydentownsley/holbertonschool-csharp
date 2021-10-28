@@ -1,0 +1,12 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\bin\Debug\netcoreapp2.1\5-eventful.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\5-eventful\obj\Debug\netcoreapp2.1\5-eventful.pdb

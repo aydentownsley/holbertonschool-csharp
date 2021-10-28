@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-eventful</name>
+    </assembly>
+    <members>
+        <member name="T:Modifier">
+            <summary> enum for modifiers </summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary> Weak Mod </summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary> Base Mod </summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary> Strong Mod </summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary> Delegate to calculate modifier </summary>
+        </member>
+        <member name="T:CalculateHealth">
+            <summary> Delegate to calculate health for damage and healing </summary>
+        </member>
+        <member name="T:Player">
+            <summary> Player Class with stats </summary>
+        </member>
+        <member name="F:Player.HPCheck">
+            <summary> Event handler for health </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary> Player Constructor to set stats </summary>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary> Prints health of Player </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary> decreases health of player </summary>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary> increases health of player </summary>
+        </member>
+        <member name="M:Player.ValidateHP(System.Single)">
+            <summary> validates calculated health is within bounds of maxHP </summary>
+        </member>
+        <member name="M:Player.ApplyModifier(System.Single,Modifier)">
+            <summary> apply modifer to value entered </summary>
+        </member>
+        <member name="M:Player.OnCheckStatus(CurrentHPArgs)">
+            <summary> checking if low health check </summary>
+        </member>
+        <member name="T:CurrentHPArgs">
+            <summary> Handles health </summary>
+        </member>
+        <member name="F:CurrentHPArgs.currentHp">
+            <summary> currentHp check </summary>
+        </member>
+        <member name="M:CurrentHPArgs.#ctor(System.Single)">
+            <summary> sets newHP to current </summary>
+        </member>
+    </members>
+</doc>
