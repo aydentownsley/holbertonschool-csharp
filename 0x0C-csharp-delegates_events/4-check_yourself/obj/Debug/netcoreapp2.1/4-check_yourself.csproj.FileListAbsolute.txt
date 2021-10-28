@@ -1,0 +1,12 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.xml
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\bin\Debug\netcoreapp2.1\4-check_yourself.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0C-csharp-delegates_events\4-check_yourself\obj\Debug\netcoreapp2.1\4-check_yourself.pdb
