@@ -1,0 +1,9 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\bin\Debug\netcoreapp2.1\InventoryLibrary.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryLibrary\obj\Debug\netcoreapp2.1\InventoryLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\bin\Debug\netcoreapp2.1\InventoryManager.deps.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\bin\Debug\netcoreapp2.1\InventoryManager.runtimeconfig.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\bin\Debug\netcoreapp2.1\InventoryManager.runtimeconfig.dev.json
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\bin\Debug\netcoreapp2.1\InventoryManager.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\bin\Debug\netcoreapp2.1\InventoryManager.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\bin\Debug\netcoreapp2.1\InventoryLibrary.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\bin\Debug\netcoreapp2.1\InventoryLibrary.pdb
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.csprojAssemblyReference.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.AssemblyInfoInputs.cache
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.AssemblyInfo.cs
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.csproj.CopyComplete
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.dll
+C:\Users\ayden\Documents\Code\holbertonschool-csharp\0x0D-csharp-text_based_interface\InventoryManager\obj\Debug\netcoreapp2.1\InventoryManager.pdb
