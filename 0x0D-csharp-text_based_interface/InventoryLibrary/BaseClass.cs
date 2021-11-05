@@ -16,7 +16,7 @@ namespace InventoryLibrary
         /// </summary>
         public BaseClass()
         {
-            this.id = Guid.NewGuid().ToString();
+            this.id = Guid.NewGuid().ToString().Substring(0,8);
             this.date_created = DateTime.Now;
             this.date_updated = DateTime.Now;
         }

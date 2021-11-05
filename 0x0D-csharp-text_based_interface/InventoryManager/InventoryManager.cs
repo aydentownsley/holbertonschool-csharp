@@ -55,16 +55,35 @@ namespace InventoryManager
             System.Threading.Thread.Sleep(500);
             Console.WriteLine();
             Console.ResetColor();
-            Console.WriteLine(@"Inventory Manager
---------------------------
-< ClassNames > show all ClassNames of objects
-< All > show all objects
-< All[ClassName] > show all objects of a ClassName
-< Create[ClassName] > a new object
-< Show[ClassName object_id] > an object
-< Update[ClassName object_id] > an object
-< Delete[ClassName object_id] > an object
-< Exit > ");
+            Console.WriteLine(@"-----------------------------------------------------
+
+< ClassNames > 
+    - Shows all ClassNames of objects in storage
+    - Options: BaseClass, User, Item, Iventory
+
+< All > 
+    - Shows all objects
+
+< All [ClassName] > 
+    - Shows all objects of a ClassName
+
+< Create [ClassName] > 
+    - Creates a new object
+    - Certain Classes require additional info
+
+< Show [ClassName] [object_id] > 
+    - Shows specified object
+
+< Update [ClassName] [object_id] [Property Name] > 
+    - Updates an Specified Object Property
+
+< Delete [ClassName] [object_id] > 
+    - Deletes a specified object
+
+< Exit > 
+    - Exits the application
+
+-----------------------------------------------------");
             Console.WriteLine();
         }
 
@@ -190,6 +209,7 @@ namespace InventoryManager
                     break;
             }
             j.Save();
+            j.Load();
         }
 
         /// <summary>
@@ -246,7 +266,11 @@ namespace InventoryManager
                 {
                     if (item.Key.Split('.')[0].ToLower() == input[1].ToLower() && item.Key.Split('.')[1] == input[2])
                         Console.WriteLine(item);
-                }    
+                }
+            }
+            else
+            {
+                Console.WriteLine("Show needs a class and id...");
             }
         }
 
@@ -300,7 +324,7 @@ namespace InventoryManager
                     /// to dictionary
                     foreach (PropertyInfo prop in update.GetType().GetProperties())
                     {
-                        if (prop.Name == "Name" && input[3] == "name")
+                        if (prop.Name == "Name" && input[3].ToLower() == "name")
                         {
                             Console.WriteLine("Input new Name: ");
                             string name = Console.ReadLine();
@@ -308,7 +332,7 @@ namespace InventoryManager
                             continue;
                         }
 
-                        if (prop.Name == "Date_updated")
+                        if (prop.Name == "Date_updated" && input[3].ToLower() == "date_updated")
                         { 
                             prop.SetValue(update, DateTime.Now);
                             continue;
@@ -375,12 +399,14 @@ namespace InventoryManager
         static void Delete(string[] input, JSONStorage j)
         {
             string oid = input[1] + "." + input[2];
-            Console.WriteLine(oid);
             if (j.All().ContainsKey(oid.ToLower()))
             {
                 j.All().Remove(oid);
                 j.Save();
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.BackgroundColor = ConsoleColor.Red;
                 Console.WriteLine("Delete Succesful");
+                Console.ResetColor();
             }
             else
                 Console.WriteLine("Object Not Found...");
