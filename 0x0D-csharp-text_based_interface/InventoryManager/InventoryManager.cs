@@ -136,7 +136,7 @@ namespace InventoryManager
                     break;
                 case "user":
                     if (input.Length <= 2)
-                        Console.WriteLine("Item needs a name...");
+                        Console.WriteLine("User needs a name...");
                     else
                     {
                         User u = new User(input[2]);

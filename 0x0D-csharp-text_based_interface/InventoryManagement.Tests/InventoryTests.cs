@@ -10,6 +10,10 @@ namespace Tests
         Item i = new Item("sword");
         User u = new User("Rick Castle");
 
+        [Test]
+        public void BaseTest()
+        { Assert.Pass(); }
+
         /// <summary>
         /// Id's are being set from BaseCalss inheritance
         /// </summary>
