@@ -11,6 +11,9 @@ namespace InventoryManager
 {
     class InventoryManager
     {
+        /// <summary>
+        /// Dictionary of possible type to use when converting from JSON dict to objects
+        /// </summary>
         public static Dictionary<string, Type> types = new Dictionary<string, Type>()
         {
             {"item", typeof(Item) },
@@ -18,6 +21,12 @@ namespace InventoryManager
             {"inventory", typeof(Inventory) },
             {"baseclass", typeof(BaseClass) }
         };
+
+        /// <summary>
+        /// Aesthetic effect for typing intro
+        /// </summary>
+        /// <param name="dialouge"></param>
+        /// <param name="speed"></param>
         static void typewrite(string dialouge, int speed)
         {
             foreach (char c in dialouge)
@@ -28,6 +37,9 @@ namespace InventoryManager
             Console.WriteLine();
         }
 
+        /// <summary>
+        /// Content to be shown at beginnig of console
+        /// </summary>
         static void intro()
         {
             Console.Clear();
@@ -64,6 +76,7 @@ namespace InventoryManager
             string trim;
             string[] input;
 
+            /// This loops starts the input section of the console
             while (true)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
@@ -72,7 +85,9 @@ namespace InventoryManager
                 trim = Console.ReadLine().Trim(' ');
                 input = trim.Split(' ');
 
-                
+                /// Parses first word of input and decides if
+                /// it is valid and where to send the rest of 
+                /// the arguments given (if any)
                 switch(input[0].ToLower())
                 {
                     case "create":
@@ -105,6 +120,13 @@ namespace InventoryManager
             }
         }
 
+        /// <summary>
+        /// Create function
+        /// Checks arguemnt length to see if valid amount of args
+        /// Then attempts to make Object specified
+        /// </summary>
+        /// <param name="input"></param>
+        /// <param name="j"></param>
         static void Create(string[] input, JSONStorage j)
         {
             if (input.Length <= 1)
@@ -113,6 +135,7 @@ namespace InventoryManager
                 return;
             }
 
+            /// Checks if input is a valid class and makes object
             switch (input[1].ToLower())
             {
                 case "baseclass":
@@ -169,6 +192,13 @@ namespace InventoryManager
             j.Save();
         }
 
+        /// <summary>
+        /// All function
+        /// Shows all the objects currenlty available/created
+        /// in storage
+        /// </summary>
+        /// <param name="input"></param>
+        /// <param name="j"></param>
         static void All(string[] input, JSONStorage j)
         {
             if (input.Length <= 1)
@@ -186,6 +216,11 @@ namespace InventoryManager
             }    
         }
 
+        /// <summary>
+        /// Shows all the class names used in storage
+        /// </summary>
+        /// <param name="input"></param>
+        /// <param name="j"></param>
         static void CNames(string[] input, JSONStorage j)
         {
             if (input.Length == 1)
@@ -197,6 +232,12 @@ namespace InventoryManager
             }    
         }
 
+        /// <summary>
+        /// Show function
+        /// Shows the object specified by id
+        /// </summary>
+        /// <param name="input"></param>
+        /// <param name="j"></param>
         static void Show(string[] input, JSONStorage j)
         {
             if (input.Length == 3)
@@ -209,6 +250,13 @@ namespace InventoryManager
             }
         }
 
+        /// <summary>
+        /// Update function
+        /// Updates a specified object (by id)
+        /// and then chekcs for parameter user wants to update
+        /// </summary>
+        /// <param name="input"></param>
+        /// <param name="j"></param>
         static void Update(string[] input, JSONStorage j)
         {
             if (input.Length == 4)
@@ -222,6 +270,8 @@ namespace InventoryManager
                         IgnoreNullValues = true,
                     };
                     object update;
+
+                    /// Creates new object from info in JSON of type specified
                     switch (input[1])
                     {
                         case "item":
@@ -240,8 +290,14 @@ namespace InventoryManager
                             update = JsonSerializer.Deserialize<BaseClass>(j.All()[oid].ToString(), options);
                             break;
                     }
+
+                    /// removes the dictionary entry of un-updated
+                    /// entry rep of object
                     j.All().Remove(oid);
                     
+                    /// Loops through properties of created class and
+                    /// upates that object and then saves new object
+                    /// to dictionary
                     foreach (PropertyInfo prop in update.GetType().GetProperties())
                     {
                         if (prop.Name == "Name" && input[3] == "name")
@@ -309,6 +365,13 @@ namespace InventoryManager
                 Console.WriteLine("Too few arguments...");
         }
 
+        /// <summary>
+        /// Delete Function
+        /// Deletes corresponding dictionary rep of object
+        /// from JSON dict
+        /// </summary>
+        /// <param name="input"></param>
+        /// <param name="j"></param>
         static void Delete(string[] input, JSONStorage j)
         {
             string oid = input[1] + "." + input[2];
@@ -323,6 +386,12 @@ namespace InventoryManager
                 Console.WriteLine("Object Not Found...");
         }
 
+        /// <summary>
+        /// Exit Function
+        /// exits console when exit is typed
+        /// </summary>
+        /// <param name="input"></param>
+        /// <param name="j"></param>
         static void Exit(string[] input, JSONStorage j)
         {
             Environment.Exit(1);
