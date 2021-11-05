@@ -26,7 +26,11 @@ namespace InventoryLibrary
         public string Name
         {
             get { return this.name; }
-            set { this.name = value; }
+            set 
+            { 
+                this.name = value;
+                this.Date_updated = DateTime.Now;
+            }
         }
     }
 }

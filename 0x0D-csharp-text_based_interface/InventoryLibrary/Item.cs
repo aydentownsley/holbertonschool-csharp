@@ -29,7 +29,11 @@ namespace InventoryLibrary
         public string Name
         {
             get { return this.name; }
-            set { this.name = value; }
+            set 
+            { 
+                this.name = value;
+                this.Date_updated = DateTime.Now;
+            }
         }
 
         /// <summary>
@@ -38,7 +42,11 @@ namespace InventoryLibrary
         public string Description
         {
             get { return this.description; }
-            set { this.description = value; }
+            set 
+            { 
+                this.description = value;
+                this.Date_updated = DateTime.Now;
+            }
         }
 
         /// <summary>
@@ -47,7 +55,11 @@ namespace InventoryLibrary
         public float Price
         {
             get { return this.price; }
-            set { this.price = value; }
+            set 
+            { 
+                this.price = value;
+                this.Date_updated = DateTime.Now;
+            }
         }
 
         /// <summary>
@@ -56,7 +68,11 @@ namespace InventoryLibrary
         public List<string> Tags
         {
             get { return this.tags; }
-            set { this.tags = value; }
+            set 
+            { 
+                this.tags = value;
+                this.Date_updated = DateTime.Now;
+            }
         }
     }
 }

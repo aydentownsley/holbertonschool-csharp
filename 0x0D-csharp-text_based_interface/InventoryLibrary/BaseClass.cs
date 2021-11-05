@@ -27,7 +27,11 @@ namespace InventoryLibrary
         public string Id
         {
             get { return this.id; }
-            set { this.id = value; }
+            set 
+            { 
+                this.id = value;
+                this.date_updated = DateTime.Now;
+            }
         }
 
         /// <summary>

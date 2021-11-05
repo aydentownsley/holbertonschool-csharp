@@ -35,7 +35,11 @@ namespace InventoryLibrary
         public string Uid
         {
             get { return this.user_id; }
-            set { this.user_id = value; }
+            set 
+            {
+                this.user_id = value;
+                this.Date_updated = DateTime.Now;
+            }
         }
 
         /// <summary>
@@ -44,7 +48,11 @@ namespace InventoryLibrary
         public string Iid
         {
             get { return this.item_id; }
-            set { this.item_id = value; }
+            set 
+            { 
+                this.item_id = value;
+                this.Date_updated = DateTime.Now;
+            }
         }
 
         /// <summary>
@@ -59,6 +67,7 @@ namespace InventoryLibrary
                     quantity = 1;
                 else
                     this.quantity = value;
+                this.Date_updated = DateTime.Now;
             }
         }
     }

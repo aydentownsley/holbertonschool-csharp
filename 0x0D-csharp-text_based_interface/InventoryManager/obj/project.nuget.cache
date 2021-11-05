@@ -1,16 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "kq5MylqdfWIuJsxyJIR5oxt5G6A0cMUzzj2dZKyqOZemUo+oQiyBY8DGFHjlU4hb2Fg3pIfPGRypKJqMC6NsOw==",
+  "dgSpecHash": "WFj/BpIPV4PI2xAiU4w1T7lgGdJEk7QH0rsowG6yVHep3lVWrXdT/YDBs6WIOwKKUjYTXOnU6KK0kXV+y7+EgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ayden\\Documents\\Code\\holbertonschool-csharp\\0x0D-csharp-text_based_interface\\InventoryManager\\InventoryManager.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ayden\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ayden\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\ayden\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\ayden\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }
